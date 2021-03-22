@@ -1,2 +1,1 @@
-# Crud-redux-ega
-Tugas CRUD react menggunakan redux dan material UI
+### Simple React Redux CRUD app for my tutorial on Dev.to
